@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: blueprint.example.int-producer
+Bundle-Version: 0.0.1
+Bundle-Name: Integer Producer 0.0.1
+Built-By: rona
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1488285639883
+Import-Package: blueprint.example.producer.api;version="[0.0,1)",javax
+ .annotation,org.springframework.stereotype;version="[3.0,4)"
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.43.0
+Build-Jdk: 1.8.0_121
+

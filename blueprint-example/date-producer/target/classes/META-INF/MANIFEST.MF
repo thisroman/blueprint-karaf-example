@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: blueprint.example.date-producer
+Bundle-Version: 0.0.1
+Bundle-Name: Date Producer 0.0.1
+Built-By: rona
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1488285496628
+Import-Package: blueprint.example.producer.api;version="[0.0,1)",org.e
+ clipse.gemini.blueprint.service.exporter.support,org.springframework.
+ stereotype;version="[3.0,4)"
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.43.0
+Build-Jdk: 1.8.0_121
+

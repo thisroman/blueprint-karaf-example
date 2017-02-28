@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Export-Package: blueprint.example.producer.api;version="0.0.1"
+Bundle-SymbolicName: blueprint.example.producer-api
+Bundle-Version: 0.0.1
+Bundle-Name: Producer API 0.0.1
+Built-By: rona
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1488285637244
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.43.0
+Build-Jdk: 1.8.0_121
+
